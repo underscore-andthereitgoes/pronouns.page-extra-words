@@ -1791,6 +1791,7 @@ For words that are not on here, for an updated version of a word, or if you're c
   </td>
   <td>
     <p>
+      ✅ snowman<br>
       ✅ snowperson<br>
       🆗 snowpal<br>
       ✅ snowfriend
