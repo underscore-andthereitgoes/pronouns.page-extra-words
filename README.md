@@ -1,6 +1,6 @@
-# My Gender-Neutral Words Preferences
+# My Gender-Neutral Word Preferences
 
-This is a table listing gender-neutral forms of gendered words and how I feel about them being used for me. Note that you're allowed to misgender me for jokes, as long as you specify it's a joke and I'm okay with it.
+This is a table listing gender-neutral forms of gendered words and how I feel about them being used for me. Note that you're allowed to misgender me for jokes and memes, as long as you specify it's a joke and I'm okay with it.
 
 <strong>This is not a final list.</strong> My preferences may shift. I will probably try my best to update this list occasionally, but it's difficult given how long it is.
 
@@ -764,6 +764,7 @@ For words that are not on here, for an updated version of a word, or if you're c
       ✅ emperor<br>
       ✅ imperial<br>
       🆗 "Their Imperial Highness"<br>
+      ✅ "Hyr/Xer/Fyr Imperial Highness"<br>
       ✅ "The Imperial Highness"
     </p>
   </td>
@@ -1378,30 +1379,6 @@ For words that are not on here, for an updated version of a word, or if you're c
       🆗 postal worker<br>
       🆗 letter carrier<br>
       ✅ courier
-    </p>
-  </td>
-</tr>
-<tr>
-  <td>
-    <p>
-      ♂️ manpower
-    </p>
-  </td>
-  <td>
-    <p>
-      ♀️ womanpower
-    </p>
-  </td>
-  <td>
-    <p>
-      ✅ workforce<br>
-      ✅ humanpower<br>
-      ✅ labour<br>
-      ✅ labour power<br>
-      🆗 hands<br>
-      ✅ personpower<br>
-      ✅ enbypower<br>
-      ✅ workpower
     </p>
   </td>
 </tr>
